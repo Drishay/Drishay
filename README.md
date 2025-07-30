@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm a Passionate Tester & Developer</h1>
-<h3 align="center">🎓 3rd Year B.Tech Student • 🧪 QA Tester • 🧠 Problem Solver</h3>
+<h1 align="center"> Versatile Hustler🔥</h1>
+
+<h3 align="center">🎓 I'm a 3rd Year B.Tech Student • 🧪 QA Tester • 🧠 Problem Solver</h3>
 
 ---
 
