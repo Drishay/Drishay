@@ -5,20 +5,21 @@
 
 ### 🧠 About Me
 
-- 🎓 I’m currently pursuing B.Tech (3rd year)
-- 🔍 I recently completed an internship as a **Web App Tester**
-- 🛠️ I specialize in **debugging**, **manual testing**, and solving logical problems
-- 💡 Good command over **Python** and **C++**
-- 💻 Practicing DSA on LeetCode — solved 15+ problems and growing
-- 🎯 Dedicated, hardworking, and always eager to learn
+- 🎓 I’m currently pursuing B.Tech (3rd year), holding a decent **CGPA 8.42**
+- 🔍 I recently completed an internship as a **QA Tester** at a startup
+- 🛠️ I specialize in **debugging**, **manual testing**, **bug reporting**, and solving logical problems
+- 💡  Languages known- **Python**, **C++**, **C**, **java**
+- 💻 Practicing DSA on LeetCode
+- 🎯 Observer, Exolorer, Versatile, **Hustler**
 
 ---
 
 ### 🚀 Currently Learning
 
 - 📚 Exploring the **MERN Stack**
-- ✅ Completed basics of **HTML**, **CSS**, and **JavaScript**
 - 🔍 Focusing on using MERN to enhance my **testing and debugging** capabilities
+- ✅ Completed basics of **HTML**, **CSS**, and **JavaScript** and build 2 small game projects.
+- now, going to start REACT.
 
 ---
 
@@ -39,11 +40,11 @@
 
 ### 📂 Featured Work
 
-*(You can add project links here as you build them — your GitHub README will evolve along with your skills)*
-
+- https://github.com/Drishay/Unity-Build/tree/main/Cube_Runner_Build, first game build on unity **Cube Runner**.
+- https://github.com/Drishay/Unity-Build/tree/main/Plane_Shooter, Classic plane shooter game build my on Untiy.
 - ✅ **Bug Reports & Test Logs** (coming soon)
-- 🧪 **Mini Projects for Debugging Practice**
-- 📦 **MERN Stack Sample Apps** (as you learn more)
+- 🧪 **Mini Projects for Debugging Practice** (comming soon)
+- 📦 **MERN Stack Sample Apps** (coming soon)
 
 ---
 
@@ -51,15 +52,16 @@
 
 - 📁 Treat this profile as my **developer portfolio**
 - 🧑‍💻 Showcase skills to future **employers** and **freelance clients**
-- 🚧 Document my journey, projects, and testing efforts
+- 🚧 Document my journey, projects, and learing efforts
 - 🌱 Build my **personal website** to link here soon
 
 ---
 
 ### 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/) *(update with your actual profile URL)*
-- 📧 Email: *(optional if you want to add it for freelance reach)*
+- [LinkedIn](https://www.linkedin.com/in/drishaychauhan/)
+- [HackerRank](https://www.hackerrank.com/profile/Drishay_Chauhan)
+- [LeetCode](https://leetcode.com/u/Drishay_Chauhan)
 
 ---
 
@@ -69,3 +71,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" />
 </p>
+
