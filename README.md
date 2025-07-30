@@ -41,7 +41,7 @@
 ### 📂 Featured Work
 
 - First game developed by me [Cube Runner](https://github.com/Drishay/Unity-Build/tree/main/Cube_Runner_Build)
-- Classic plane shooter game build my on Untiy [Plane Shooter](https://github.com/Drishay/Unity-Build/tree/main/Plane_Shooter)
+- Classic [Plane Shooter](https://github.com/Drishay/Unity-Build/tree/main/Plane_Shooter) game build my on Untiy
 - ✅ **Bug Reports & Test Logs** (coming soon)
 - 🧪 **Mini Projects for Debugging Practice** (comming soon)
 - 📦 **MERN Stack Sample Apps** (coming soon)
