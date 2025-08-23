@@ -37,7 +37,12 @@
 </p>
 
 ---
+### 👩🏻‍💻 Web Dev
+- 🎮 [Tic-Tac-Toe] (https://drishay.github.io/Tic-Tac-Toe/)
+- 🎮 [Rock-Paper-Scissor] (https://rock-paper-scissors-seven-silk.vercel.app/)
+- 📄 [Personal-Portfolio]
 
+---
 ### 📂 Featured Work
 
 - 🎮 [Cube Runner](https://github.com/Drishay/Unity-Build/tree/main/Cube_Runner_Build) — my first Unity game
